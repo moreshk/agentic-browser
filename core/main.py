@@ -1,5 +1,5 @@
+import asyncio
 from core.orchestrator import Orchestrator
-import asyncio  # Add this import
 
 async def main():
     orchestrator = Orchestrator()
